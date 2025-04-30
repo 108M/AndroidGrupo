@@ -13,3 +13,12 @@ TAREAS:
 -crear todas las pantallas con el estilo (sin funcionalidad)
 -implementar logica del proyecto de java a netbeans
 -añadir funcionalidades
+
+OBLIGATORIO:  
+Implementación de uso de GPS,
+Implementación de uso de cámara de fotos/video:
+Implementación de mapas en la App,
+Implementación con OnTouch y OnDraw
+
+la clase historia tiene campos latitud y longitud para guardar la ubicacion en back4app y habra que dibujarla en un mapa
+como open street map
