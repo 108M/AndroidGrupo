@@ -1,0 +1,15 @@
+
+IMPORTANTE: GUIARSE POR EL CODIGO DE JAVA DE AIMAR QUE ESTA SUPER BIEN, NO HACER CAMBIOS MAYORES
+
+
+Markel: 
+he hecho ya las primeras pantallas y he añadido las cosas del modelo que ha cambiado aimar, por ahora solo cojo los datos y no hago nada mas, intentare implementar
+la logica de los dao y todo eso
+
+
+
+
+TAREAS:
+-crear todas las pantallas con el estilo (sin funcionalidad)
+-implementar logica del proyecto de java a netbeans
+-añadir funcionalidades
